@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/kostka.unity
+    guid: ed02c3f46a7d346dc9025f825068a066
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1a5e4a7df5b094eafa2fa075e13e1ea3, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ab8507de858724b579ce84e9e155472e, type: 2}
